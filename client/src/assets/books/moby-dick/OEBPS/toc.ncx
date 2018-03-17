@@ -1,0 +1,887 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/2701"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Moby Dick; Or, The Whale</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="np-1">
+      <navLabel>
+        <text>MOBY-DICK; or, THE WHALE.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint playOrder="2" id="np-2">
+      <navLabel>
+        <text>Original Transcriber's Notes:</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-0.htm.html#pgepubid00001"/>
+    </navPoint>
+    <navPoint playOrder="3" id="np-3">
+      <navLabel>
+        <text>ETYMOLOGY.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-0.htm.html#pgepubid00002"/>
+      <navPoint playOrder="4" id="np-4">
+        <navLabel>
+          <text>(Supplied by a Late Consumptive Usher to a Grammar School.)</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-0.htm.html#pgepubid00003"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="5" id="np-5">
+      <navLabel>
+        <text>EXTRACTS. (Supplied by a Sub-Sub-Librarian).</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-0.htm.html#pgepubid00004"/>
+      <navPoint playOrder="6" id="np-6">
+        <navLabel>
+          <text>EXTRACTS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-0.htm.html#pgepubid00005"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="7" id="np-7">
+      <navLabel>
+        <text>CHAPTER 1. Loomings.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-1.htm.html#pgepubid00006"/>
+    </navPoint>
+    <navPoint playOrder="8" id="np-8">
+      <navLabel>
+        <text>CHAPTER 2. The Carpet-Bag.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-1.htm.html#pgepubid00007"/>
+    </navPoint>
+    <navPoint playOrder="9" id="np-9">
+      <navLabel>
+        <text>CHAPTER 3. The Spouter-Inn.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-1.htm.html#pgepubid00008"/>
+    </navPoint>
+    <navPoint playOrder="10" id="np-10">
+      <navLabel>
+        <text>CHAPTER 4. The Counterpane.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-2.htm.html#pgepubid00009"/>
+    </navPoint>
+    <navPoint playOrder="11" id="np-11">
+      <navLabel>
+        <text>CHAPTER 5. Breakfast.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-2.htm.html#pgepubid00010"/>
+    </navPoint>
+    <navPoint playOrder="12" id="np-12">
+      <navLabel>
+        <text>CHAPTER 6. The Street.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-2.htm.html#pgepubid00011"/>
+    </navPoint>
+    <navPoint playOrder="13" id="np-13">
+      <navLabel>
+        <text>CHAPTER 7. The Chapel.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-2.htm.html#pgepubid00012"/>
+    </navPoint>
+    <navPoint playOrder="14" id="np-14">
+      <navLabel>
+        <text>CHAPTER 8. The Pulpit.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-2.htm.html#pgepubid00013"/>
+    </navPoint>
+    <navPoint playOrder="15" id="np-15">
+      <navLabel>
+        <text>CHAPTER 9. The Sermon.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-2.htm.html#pgepubid00014"/>
+    </navPoint>
+    <navPoint playOrder="16" id="np-16">
+      <navLabel>
+        <text>CHAPTER 10. A Bosom Friend.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00015"/>
+    </navPoint>
+    <navPoint playOrder="17" id="np-17">
+      <navLabel>
+        <text>CHAPTER 11. Nightgown.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00016"/>
+    </navPoint>
+    <navPoint playOrder="18" id="np-18">
+      <navLabel>
+        <text>CHAPTER 12. Biographical.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00017"/>
+    </navPoint>
+    <navPoint playOrder="19" id="np-19">
+      <navLabel>
+        <text>CHAPTER 13. Wheelbarrow.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00018"/>
+    </navPoint>
+    <navPoint playOrder="20" id="np-20">
+      <navLabel>
+        <text>CHAPTER 14. Nantucket.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00019"/>
+    </navPoint>
+    <navPoint playOrder="21" id="np-21">
+      <navLabel>
+        <text>CHAPTER 15. Chowder.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00020"/>
+    </navPoint>
+    <navPoint playOrder="22" id="np-22">
+      <navLabel>
+        <text>CHAPTER 16. The Ship.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-3.htm.html#pgepubid00021"/>
+    </navPoint>
+    <navPoint playOrder="23" id="np-23">
+      <navLabel>
+        <text>CHAPTER 17. The Ramadan.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-4.htm.html#pgepubid00022"/>
+    </navPoint>
+    <navPoint playOrder="24" id="np-24">
+      <navLabel>
+        <text>CHAPTER 18. His Mark.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-4.htm.html#pgepubid00023"/>
+    </navPoint>
+    <navPoint playOrder="25" id="np-25">
+      <navLabel>
+        <text>CHAPTER 19. The Prophet.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-4.htm.html#pgepubid00024"/>
+    </navPoint>
+    <navPoint playOrder="26" id="np-26">
+      <navLabel>
+        <text>CHAPTER 20. All Astir.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-4.htm.html#pgepubid00025"/>
+    </navPoint>
+    <navPoint playOrder="27" id="np-27">
+      <navLabel>
+        <text>CHAPTER 21. Going Aboard.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-4.htm.html#pgepubid00026"/>
+    </navPoint>
+    <navPoint playOrder="28" id="np-28">
+      <navLabel>
+        <text>CHAPTER 22. Merry Christmas.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-4.htm.html#pgepubid00027"/>
+    </navPoint>
+    <navPoint playOrder="29" id="np-29">
+      <navLabel>
+        <text>CHAPTER 23. The Lee Shore.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00028"/>
+    </navPoint>
+    <navPoint playOrder="30" id="np-30">
+      <navLabel>
+        <text>CHAPTER 24. The Advocate.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00029"/>
+    </navPoint>
+    <navPoint playOrder="31" id="np-31">
+      <navLabel>
+        <text>CHAPTER 25. Postscript.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00030"/>
+    </navPoint>
+    <navPoint playOrder="32" id="np-32">
+      <navLabel>
+        <text>CHAPTER 26. Knights and Squires.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00031"/>
+    </navPoint>
+    <navPoint playOrder="33" id="np-33">
+      <navLabel>
+        <text>CHAPTER 27. Knights and Squires.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00032"/>
+    </navPoint>
+    <navPoint playOrder="34" id="np-34">
+      <navLabel>
+        <text>CHAPTER 28. Ahab.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00033"/>
+    </navPoint>
+    <navPoint playOrder="35" id="np-35">
+      <navLabel>
+        <text>CHAPTER 29. Enter Ahab; to Him, Stubb.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-5.htm.html#pgepubid00034"/>
+    </navPoint>
+    <navPoint playOrder="36" id="np-36">
+      <navLabel>
+        <text>CHAPTER 30. The Pipe.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-6.htm.html#pgepubid00035"/>
+    </navPoint>
+    <navPoint playOrder="37" id="np-37">
+      <navLabel>
+        <text>CHAPTER 31. Queen Mab.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-6.htm.html#pgepubid00036"/>
+    </navPoint>
+    <navPoint playOrder="38" id="np-38">
+      <navLabel>
+        <text>CHAPTER 32. Cetology.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-6.htm.html#pgepubid00037"/>
+    </navPoint>
+    <navPoint playOrder="39" id="np-39">
+      <navLabel>
+        <text>CHAPTER 33. The Specksnyder.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-6.htm.html#pgepubid00038"/>
+    </navPoint>
+    <navPoint playOrder="40" id="np-40">
+      <navLabel>
+        <text>CHAPTER 34. The Cabin-Table.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-6.htm.html#pgepubid00039"/>
+    </navPoint>
+    <navPoint playOrder="41" id="np-41">
+      <navLabel>
+        <text>CHAPTER 35. The Mast-Head.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-7.htm.html#pgepubid00040"/>
+    </navPoint>
+    <navPoint playOrder="42" id="np-42">
+      <navLabel>
+        <text>CHAPTER 36. The Quarter-Deck.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-7.htm.html#pgepubid00041"/>
+    </navPoint>
+    <navPoint playOrder="43" id="np-43">
+      <navLabel>
+        <text>CHAPTER 37. Sunset.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-7.htm.html#pgepubid00042"/>
+    </navPoint>
+    <navPoint playOrder="44" id="np-44">
+      <navLabel>
+        <text>CHAPTER 38. Dusk.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-7.htm.html#pgepubid00043"/>
+    </navPoint>
+    <navPoint playOrder="45" id="np-45">
+      <navLabel>
+        <text>CHAPTER 39. First Night-Watch.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-7.htm.html#pgepubid00044"/>
+    </navPoint>
+    <navPoint playOrder="46" id="np-46">
+      <navLabel>
+        <text>CHAPTER 40. Midnight, Forecastle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-7.htm.html#pgepubid00045"/>
+    </navPoint>
+    <navPoint playOrder="47" id="np-47">
+      <navLabel>
+        <text>CHAPTER 41. Moby Dick.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-8.htm.html#pgepubid00046"/>
+    </navPoint>
+    <navPoint playOrder="48" id="np-48">
+      <navLabel>
+        <text>CHAPTER 42. The Whiteness of the Whale.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-8.htm.html#pgepubid00047"/>
+    </navPoint>
+    <navPoint playOrder="49" id="np-49">
+      <navLabel>
+        <text>CHAPTER 43. Hark!</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-8.htm.html#pgepubid00048"/>
+    </navPoint>
+    <navPoint playOrder="50" id="np-50">
+      <navLabel>
+        <text>CHAPTER 44. The Chart.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-8.htm.html#pgepubid00049"/>
+    </navPoint>
+    <navPoint playOrder="51" id="np-51">
+      <navLabel>
+        <text>CHAPTER 45. The Affidavit.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-9.htm.html#pgepubid00050"/>
+    </navPoint>
+    <navPoint playOrder="52" id="np-52">
+      <navLabel>
+        <text>CHAPTER 46. Surmises.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-9.htm.html#pgepubid00051"/>
+    </navPoint>
+    <navPoint playOrder="53" id="np-53">
+      <navLabel>
+        <text>CHAPTER 47. The Mat-Maker.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-9.htm.html#pgepubid00052"/>
+    </navPoint>
+    <navPoint playOrder="54" id="np-54">
+      <navLabel>
+        <text>CHAPTER 48. The First Lowering.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-9.htm.html#pgepubid00053"/>
+    </navPoint>
+    <navPoint playOrder="55" id="np-55">
+      <navLabel>
+        <text>CHAPTER 49. The Hyena.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-10.htm.html#pgepubid00054"/>
+    </navPoint>
+    <navPoint playOrder="56" id="np-56">
+      <navLabel>
+        <text>CHAPTER 50. Ahab's Boat and Crew. Fedallah.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-10.htm.html#pgepubid00055"/>
+    </navPoint>
+    <navPoint playOrder="57" id="np-57">
+      <navLabel>
+        <text>CHAPTER 51. The Spirit-Spout.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-10.htm.html#pgepubid00056"/>
+    </navPoint>
+    <navPoint playOrder="58" id="np-58">
+      <navLabel>
+        <text>CHAPTER 52. The Albatross.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-10.htm.html#pgepubid00057"/>
+    </navPoint>
+    <navPoint playOrder="59" id="np-59">
+      <navLabel>
+        <text>CHAPTER 53. The Gam.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-10.htm.html#pgepubid00058"/>
+    </navPoint>
+    <navPoint playOrder="60" id="np-60">
+      <navLabel>
+        <text>CHAPTER 54. The Town-Ho's Story.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-10.htm.html#pgepubid00059"/>
+    </navPoint>
+    <navPoint playOrder="61" id="np-61">
+      <navLabel>
+        <text>CHAPTER 55. Of the Monstrous Pictures of Whales.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-11.htm.html#pgepubid00060"/>
+    </navPoint>
+    <navPoint playOrder="62" id="np-62">
+      <navLabel>
+        <text>CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-11.htm.html#pgepubid00061"/>
+    </navPoint>
+    <navPoint playOrder="63" id="np-63">
+      <navLabel>
+        <text>CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-11.htm.html#pgepubid00062"/>
+    </navPoint>
+    <navPoint playOrder="64" id="np-64">
+      <navLabel>
+        <text>CHAPTER 58. Brit.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-11.htm.html#pgepubid00063"/>
+    </navPoint>
+    <navPoint playOrder="65" id="np-65">
+      <navLabel>
+        <text>CHAPTER 59. Squid.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-11.htm.html#pgepubid00064"/>
+    </navPoint>
+    <navPoint playOrder="66" id="np-66">
+      <navLabel>
+        <text>CHAPTER 60. The Line.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-11.htm.html#pgepubid00065"/>
+    </navPoint>
+    <navPoint playOrder="67" id="np-67">
+      <navLabel>
+        <text>CHAPTER 61. Stubb Kills a Whale.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00066"/>
+    </navPoint>
+    <navPoint playOrder="68" id="np-68">
+      <navLabel>
+        <text>CHAPTER 62. The Dart.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00067"/>
+    </navPoint>
+    <navPoint playOrder="69" id="np-69">
+      <navLabel>
+        <text>CHAPTER 63. The Crotch.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00068"/>
+    </navPoint>
+    <navPoint playOrder="70" id="np-70">
+      <navLabel>
+        <text>CHAPTER 64. Stubb's Supper.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00069"/>
+    </navPoint>
+    <navPoint playOrder="71" id="np-71">
+      <navLabel>
+        <text>CHAPTER 65. The Whale as a Dish.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00070"/>
+    </navPoint>
+    <navPoint playOrder="72" id="np-72">
+      <navLabel>
+        <text>CHAPTER 66. The Shark Massacre.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00071"/>
+    </navPoint>
+    <navPoint playOrder="73" id="np-73">
+      <navLabel>
+        <text>CHAPTER 67. Cutting In.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-12.htm.html#pgepubid00072"/>
+    </navPoint>
+    <navPoint playOrder="74" id="np-74">
+      <navLabel>
+        <text>CHAPTER 68. The Blanket.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-13.htm.html#pgepubid00073"/>
+    </navPoint>
+    <navPoint playOrder="75" id="np-75">
+      <navLabel>
+        <text>CHAPTER 69. The Funeral.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-13.htm.html#pgepubid00074"/>
+    </navPoint>
+    <navPoint playOrder="76" id="np-76">
+      <navLabel>
+        <text>CHAPTER 70. The Sphynx.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-13.htm.html#pgepubid00075"/>
+    </navPoint>
+    <navPoint playOrder="77" id="np-77">
+      <navLabel>
+        <text>CHAPTER 71. The Jeroboam's Story.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-13.htm.html#pgepubid00076"/>
+    </navPoint>
+    <navPoint playOrder="78" id="np-78">
+      <navLabel>
+        <text>CHAPTER 72. The Monkey-Rope.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-13.htm.html#pgepubid00077"/>
+    </navPoint>
+    <navPoint playOrder="79" id="np-79">
+      <navLabel>
+        <text>CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk over Him.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-13.htm.html#pgepubid00078"/>
+    </navPoint>
+    <navPoint playOrder="80" id="np-80">
+      <navLabel>
+        <text>CHAPTER 74. The Sperm Whale's Head—Contrasted View.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00079"/>
+    </navPoint>
+    <navPoint playOrder="81" id="np-81">
+      <navLabel>
+        <text>CHAPTER 75. The Right Whale's Head—Contrasted View.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00080"/>
+    </navPoint>
+    <navPoint playOrder="82" id="np-82">
+      <navLabel>
+        <text>CHAPTER 76. The Battering-Ram.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00081"/>
+    </navPoint>
+    <navPoint playOrder="83" id="np-83">
+      <navLabel>
+        <text>CHAPTER 77. The Great Heidelburgh Tun.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00082"/>
+    </navPoint>
+    <navPoint playOrder="84" id="np-84">
+      <navLabel>
+        <text>CHAPTER 78. Cistern and Buckets.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00083"/>
+    </navPoint>
+    <navPoint playOrder="85" id="np-85">
+      <navLabel>
+        <text>CHAPTER 79. The Prairie.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00084"/>
+    </navPoint>
+    <navPoint playOrder="86" id="np-86">
+      <navLabel>
+        <text>CHAPTER 80. The Nut.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00085"/>
+    </navPoint>
+    <navPoint playOrder="87" id="np-87">
+      <navLabel>
+        <text>CHAPTER 81. The Pequod Meets The Virgin.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-14.htm.html#pgepubid00086"/>
+    </navPoint>
+    <navPoint playOrder="88" id="np-88">
+      <navLabel>
+        <text>CHAPTER 82. The Honor and Glory of Whaling.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-15.htm.html#pgepubid00087"/>
+    </navPoint>
+    <navPoint playOrder="89" id="np-89">
+      <navLabel>
+        <text>CHAPTER 83. Jonah Historically Regarded.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-15.htm.html#pgepubid00088"/>
+    </navPoint>
+    <navPoint playOrder="90" id="np-90">
+      <navLabel>
+        <text>CHAPTER 84. Pitchpoling.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-15.htm.html#pgepubid00089"/>
+    </navPoint>
+    <navPoint playOrder="91" id="np-91">
+      <navLabel>
+        <text>CHAPTER 85. The Fountain.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-15.htm.html#pgepubid00090"/>
+    </navPoint>
+    <navPoint playOrder="92" id="np-92">
+      <navLabel>
+        <text>CHAPTER 86. The Tail.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-15.htm.html#pgepubid00091"/>
+    </navPoint>
+    <navPoint playOrder="93" id="np-93">
+      <navLabel>
+        <text>CHAPTER 87. The Grand Armada.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-15.htm.html#pgepubid00092"/>
+    </navPoint>
+    <navPoint playOrder="94" id="np-94">
+      <navLabel>
+        <text>CHAPTER 88. Schools and Schoolmasters.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-16.htm.html#pgepubid00093"/>
+    </navPoint>
+    <navPoint playOrder="95" id="np-95">
+      <navLabel>
+        <text>CHAPTER 89. Fast-Fish and Loose-Fish.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-16.htm.html#pgepubid00094"/>
+    </navPoint>
+    <navPoint playOrder="96" id="np-96">
+      <navLabel>
+        <text>CHAPTER 90. Heads or Tails.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-16.htm.html#pgepubid00095"/>
+    </navPoint>
+    <navPoint playOrder="97" id="np-97">
+      <navLabel>
+        <text>CHAPTER 91. The Pequod Meets The Rose-Bud.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-16.htm.html#pgepubid00096"/>
+    </navPoint>
+    <navPoint playOrder="98" id="np-98">
+      <navLabel>
+        <text>CHAPTER 92. Ambergris.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-16.htm.html#pgepubid00097"/>
+    </navPoint>
+    <navPoint playOrder="99" id="np-99">
+      <navLabel>
+        <text>CHAPTER 93. The Castaway.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-16.htm.html#pgepubid00098"/>
+    </navPoint>
+    <navPoint playOrder="100" id="np-100">
+      <navLabel>
+        <text>CHAPTER 94. A Squeeze of the Hand.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00099"/>
+    </navPoint>
+    <navPoint playOrder="101" id="np-101">
+      <navLabel>
+        <text>CHAPTER 95. The Cassock.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00100"/>
+    </navPoint>
+    <navPoint playOrder="102" id="np-102">
+      <navLabel>
+        <text>CHAPTER 96. The Try-Works.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00101"/>
+    </navPoint>
+    <navPoint playOrder="103" id="np-103">
+      <navLabel>
+        <text>CHAPTER 97. The Lamp.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00102"/>
+    </navPoint>
+    <navPoint playOrder="104" id="np-104">
+      <navLabel>
+        <text>CHAPTER 98. Stowing Down and Clearing Up.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00103"/>
+    </navPoint>
+    <navPoint playOrder="105" id="np-105">
+      <navLabel>
+        <text>CHAPTER 99. The Doubloon.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00104"/>
+    </navPoint>
+    <navPoint playOrder="106" id="np-106">
+      <navLabel>
+        <text>CHAPTER 100. Leg and Arm.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00105"/>
+      <navPoint playOrder="107" id="np-107">
+        <navLabel>
+          <text>The Pequod, of Nantucket, Meets the Samuel Enderby, of London.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-17.htm.html#pgepubid00106"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="108" id="np-108">
+      <navLabel>
+        <text>CHAPTER 101. The Decanter.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-18.htm.html#pgepubid00107"/>
+    </navPoint>
+    <navPoint playOrder="109" id="np-109">
+      <navLabel>
+        <text>CHAPTER 102. A Bower in the Arsacides.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-18.htm.html#pgepubid00108"/>
+    </navPoint>
+    <navPoint playOrder="110" id="np-110">
+      <navLabel>
+        <text>CHAPTER 103. Measurement of The Whale's Skeleton.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-18.htm.html#pgepubid00109"/>
+    </navPoint>
+    <navPoint playOrder="111" id="np-111">
+      <navLabel>
+        <text>CHAPTER 104. The Fossil Whale.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-18.htm.html#pgepubid00110"/>
+    </navPoint>
+    <navPoint playOrder="112" id="np-112">
+      <navLabel>
+        <text>CHAPTER 105. Does the Whale's Magnitude Diminish?—Will He Perish?</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-18.htm.html#pgepubid00111"/>
+    </navPoint>
+    <navPoint playOrder="113" id="np-113">
+      <navLabel>
+        <text>CHAPTER 106. Ahab's Leg.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-18.htm.html#pgepubid00112"/>
+    </navPoint>
+    <navPoint playOrder="114" id="np-114">
+      <navLabel>
+        <text>CHAPTER 107. The Carpenter.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00113"/>
+    </navPoint>
+    <navPoint playOrder="115" id="np-115">
+      <navLabel>
+        <text>CHAPTER 108. Ahab and the Carpenter.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00114"/>
+      <navPoint playOrder="116" id="np-116">
+        <navLabel>
+          <text>The Deck—First Night Watch.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00115"/>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="117" id="np-117">
+      <navLabel>
+        <text>CHAPTER 109. Ahab and Starbuck in the Cabin.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00116"/>
+    </navPoint>
+    <navPoint playOrder="118" id="np-118">
+      <navLabel>
+        <text>CHAPTER 110. Queequeg in His Coffin.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00117"/>
+    </navPoint>
+    <navPoint playOrder="119" id="np-119">
+      <navLabel>
+        <text>CHAPTER 111. The Pacific.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00118"/>
+    </navPoint>
+    <navPoint playOrder="120" id="np-120">
+      <navLabel>
+        <text>CHAPTER 112. The Blacksmith.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00119"/>
+    </navPoint>
+    <navPoint playOrder="121" id="np-121">
+      <navLabel>
+        <text>CHAPTER 113. The Forge.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-19.htm.html#pgepubid00120"/>
+    </navPoint>
+    <navPoint playOrder="122" id="np-122">
+      <navLabel>
+        <text>CHAPTER 114. The Gilder.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00121"/>
+    </navPoint>
+    <navPoint playOrder="123" id="np-123">
+      <navLabel>
+        <text>CHAPTER 115. The Pequod Meets The Bachelor.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00122"/>
+    </navPoint>
+    <navPoint playOrder="124" id="np-124">
+      <navLabel>
+        <text>CHAPTER 116. The Dying Whale.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00123"/>
+    </navPoint>
+    <navPoint playOrder="125" id="np-125">
+      <navLabel>
+        <text>CHAPTER 117. The Whale Watch.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00124"/>
+    </navPoint>
+    <navPoint playOrder="126" id="np-126">
+      <navLabel>
+        <text>CHAPTER 118. The Quadrant.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00125"/>
+    </navPoint>
+    <navPoint playOrder="127" id="np-127">
+      <navLabel>
+        <text>CHAPTER 119. The Candles.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00126"/>
+    </navPoint>
+    <navPoint playOrder="128" id="np-128">
+      <navLabel>
+        <text>CHAPTER 120. The Deck Towards the End of the First Night Watch.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00127"/>
+    </navPoint>
+    <navPoint playOrder="129" id="np-129">
+      <navLabel>
+        <text>CHAPTER 121. Midnight.—The Forecastle Bulwarks.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00128"/>
+    </navPoint>
+    <navPoint playOrder="130" id="np-130">
+      <navLabel>
+        <text>CHAPTER 122. Midnight Aloft.—Thunder and Lightning.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00129"/>
+    </navPoint>
+    <navPoint playOrder="131" id="np-131">
+      <navLabel>
+        <text>CHAPTER 123. The Musket.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-20.htm.html#pgepubid00130"/>
+    </navPoint>
+    <navPoint playOrder="132" id="np-132">
+      <navLabel>
+        <text>CHAPTER 124. The Needle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00131"/>
+    </navPoint>
+    <navPoint playOrder="133" id="np-133">
+      <navLabel>
+        <text>CHAPTER 125. The Log and Line.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00132"/>
+    </navPoint>
+    <navPoint playOrder="134" id="np-134">
+      <navLabel>
+        <text>CHAPTER 126. The Life-Buoy.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00133"/>
+    </navPoint>
+    <navPoint playOrder="135" id="np-135">
+      <navLabel>
+        <text>CHAPTER 127. The Deck.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00134"/>
+    </navPoint>
+    <navPoint playOrder="136" id="np-136">
+      <navLabel>
+        <text>CHAPTER 128. The Pequod Meets The Rachel.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00135"/>
+    </navPoint>
+    <navPoint playOrder="137" id="np-137">
+      <navLabel>
+        <text>CHAPTER 129. The Cabin.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00136"/>
+    </navPoint>
+    <navPoint playOrder="138" id="np-138">
+      <navLabel>
+        <text>CHAPTER 130. The Hat.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-21.htm.html#pgepubid00137"/>
+    </navPoint>
+    <navPoint playOrder="139" id="np-139">
+      <navLabel>
+        <text>CHAPTER 131. The Pequod Meets The Delight.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-22.htm.html#pgepubid00138"/>
+    </navPoint>
+    <navPoint playOrder="140" id="np-140">
+      <navLabel>
+        <text>CHAPTER 132. The Symphony.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-22.htm.html#pgepubid00139"/>
+    </navPoint>
+    <navPoint playOrder="141" id="np-141">
+      <navLabel>
+        <text>CHAPTER 133. The Chase—First Day.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-22.htm.html#pgepubid00140"/>
+    </navPoint>
+    <navPoint playOrder="142" id="np-142">
+      <navLabel>
+        <text>CHAPTER 134. The Chase—Second Day.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-22.htm.html#pgepubid00141"/>
+    </navPoint>
+    <navPoint playOrder="143" id="np-143">
+      <navLabel>
+        <text>CHAPTER 135. The Chase.—Third Day.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-23.htm.html#pgepubid00142"/>
+    </navPoint>
+    <navPoint playOrder="144" id="np-144">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-23.htm.html#pgepubid00143"/>
+      <navPoint playOrder="145" id="np-145">
+        <navLabel>
+          <text>“AND I ONLY AM ESCAPED ALONE TO TELL THEE.” Job.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2701@2701-h@2701-h-23.htm.html#pgepubid00144"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

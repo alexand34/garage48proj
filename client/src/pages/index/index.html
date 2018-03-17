@@ -1,0 +1,99 @@
+<button ion-button menuToggle>
+  <ion-icon name="menu"></ion-icon>
+</button>
+<ion-title>Hello World</ion-title>
+
+<ion-content padding style="background: url('assets/icon/background.jpg')">
+  <ion-row>
+    <ion-item col-md-2>
+      <img src="assets/icon/heropic.png" />
+    </ion-item>
+    <ion-item col-md-4 style="marging-top: -150px;">
+      <ion-row style="marging-top: -180px;">
+        <ion-item>
+          <h2 class="main-page-txt">Sandra</h2>
+          <h4 class="main-page-txt">Level 4</h4>
+          <progress-bar [progress]="progress"></progress-bar>
+        </ion-item>
+      </ion-row>
+    </ion-item>
+    <ion-item col-md-5 class="rewards-form">
+      <ion-row>
+        <ion-item col-md-5>
+          Go To Cinema
+        </ion-item>
+        <ion-item col-md-6>
+          <ion-row>
+            <div col-md-3>
+              <img src="assets/icon/greenOwl.png" />
+            </div>
+            <div col-md-3>
+              <img src="assets/icon/greenOwl.png" />
+            </div>
+            <div col-md-3>
+              <img src="assets/icon/greenOwl.png" class="not-read-yet" />
+            </div>
+            <div col-md-3>
+              <img src="assets/icon/greenOwl.png" class="not-read-yet" />
+            </div>
+          </ion-row>
+        </ion-item>
+      </ion-row>
+      <ion-row>
+        <ion-item col-md-5>
+          Go To Cinema
+        </ion-item>
+        <ion-item col-md-6>
+          <ion-row>
+            <div col-md-3>
+              <img src="assets/icon/redOwl.png" />
+            </div>
+            <div col-md-3>
+              <img src="assets/icon/redOwl.png" />
+            </div>
+            <div col-md-3>
+              <img src="assets/icon/redOwl.png" />
+            </div>
+          </ion-row>
+        </ion-item>
+      </ion-row>
+      <ion-row>
+        <ion-item col-md-5>
+          Go To Cinema
+        </ion-item>
+        <ion-item col-md-6>
+          <ion-row>
+            <div col-md-3>
+              <img src="assets/icon/purpleOwl.png" />
+            </div>
+            <div col-md-3>
+              <img src="assets/icon/purpleOwl.png" />
+            </div>
+          </ion-row>
+        </ion-item>
+      </ion-row>
+    </ion-item>
+  </ion-row>
+
+  <div col-md-12>
+    <ion-row>
+      <div col-md-2>
+        <h2 class="main-page-txt">My Books</h2>
+      </div>
+      <div col-md-6>
+        <hr class="main-page-txt" />
+      </div>
+    </ion-row>
+  </div>
+
+  <ion-content style="width:100%;height:100%;background:transparent;">
+    <ion-scroll scrollX="true" padding style="width:100vw; height:200px">
+      <ion-row nowrap>
+        <div col-md-3 *ngFor="let book of books" (tap)="show(book)">
+          <img src="{{book.imgName}}" width="140px" />
+          <p>{{book.label}}</p>
+        </div>
+      </ion-row>
+    </ion-scroll>
+  </ion-content>
+</ion-content>

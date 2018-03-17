@@ -1,0 +1,33 @@
+page-book {
+    .modal-wrapper{
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .ios.modal-wrapper{
+        border-radius: 0px;
+    }
+    #touchlayer, #book {
+    width: 100%;
+    height: 100%;
+    }
+
+    #touchlayer{
+        z-index: 999;
+        position: absolute
+    }
+
+    #book {
+        z-index: 0;
+    }
+
+    #book iframe {
+        border: none;
+    }
+
+    .scroll-content {
+        overflow-y: hidden;
+    }
+
+}

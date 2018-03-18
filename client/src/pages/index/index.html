@@ -8,66 +8,85 @@
     <ion-item col-md-2>
       <img src="assets/icon/heropic.png" />
     </ion-item>
-    <ion-item col-md-4 style="marging-top: -150px;">
-      <ion-row style="marging-top: -180px;">
+    <ion-item col-md-4 style="margin-top: -50px;">
+      <ion-row>
         <ion-item>
-          <h2 class="main-page-txt">Sandra</h2>
-          <h4 class="main-page-txt">Level 4</h4>
+          <ion-row col-md-12>
+            <div col-md-4 style="margin-top:50px;">
+              <h2 class="main-page-txt">Sandra</h2>
+              <h4 class="main-page-txt">Level 4</h4>
+            </div>
+            <div col-md-8>
+              <ion-row col-md-12>
+                <h2 class="main-page-txt" col-md-5 style="margin-top:38px;">Coins: {{olwCoins}}</h2>
+                <ion-item col-md-6>
+                  <img src="assets/icon/commonOwl.png" style="margin-top:15px;"/>
+                </ion-item>
+              </ion-row>
+            </div>
+          </ion-row>
           <progress-bar [progress]="progress"></progress-bar>
         </ion-item>
       </ion-row>
+      <div col-md-12 style="text-align:center">
+        <ion-row>
+          <ion-item col-md-4 style="white-space: normal;
+          text-align: center;">
+            <h3 class="main-page-txt" style="text-align:center">15</h3>
+            <h4 style="white-space: normal;
+            text-align: center;">Books Finished</h4>
+          </ion-item>
+          <ion-item col-md-4 style="white-space: normal;
+          text-align: center;">
+            <h3 class="main-page-txt" style="text-align:center">15</h3>
+            <h4 style="white-space: normal;
+            text-align: center;">Hours Read</h4>
+          </ion-item>
+          <ion-item col-md-4 style="white-space: normal;
+          text-align: center;">
+            <h3 class="main-page-txt" style="text-align:center">15</h3>
+            <h4 style="white-space: normal;
+            text-align: center;">Pages Flipped</h4>
+          </ion-item>
+        </ion-row>
+      </div>
     </ion-item>
     <ion-item col-md-5 class="rewards-form">
       <ion-row>
         <ion-item col-md-5>
-          Go To Cinema
+          <span style="white-space: normal;
+          text-align: center;font-size: 15px;">Go To The Cinema</span>
         </ion-item>
         <ion-item col-md-6>
           <ion-row>
-            <div col-md-3>
-              <img src="assets/icon/greenOwl.png" />
-            </div>
-            <div col-md-3>
-              <img src="assets/icon/greenOwl.png" />
-            </div>
-            <div col-md-3>
-              <img src="assets/icon/greenOwl.png" class="not-read-yet" />
-            </div>
-            <div col-md-3>
-              <img src="assets/icon/greenOwl.png" class="not-read-yet" />
+            <div col-md-3 *ngFor="let owl of owlsOne" (click)='addCoins(owl)'>
+              <img src="assets/icon/greenOwl.png" [ngClass]="{'not-read-yet': !owl.isPicked}" />
             </div>
           </ion-row>
         </ion-item>
       </ion-row>
       <ion-row>
         <ion-item col-md-5>
-          Go To Cinema
+          <span style="white-space: normal;
+          text-align: center;font-size: 15px;">30 additional minutes of computer gaming</span>
         </ion-item>
         <ion-item col-md-6>
           <ion-row>
-            <div col-md-3>
-              <img src="assets/icon/redOwl.png" />
-            </div>
-            <div col-md-3>
-              <img src="assets/icon/redOwl.png" />
-            </div>
-            <div col-md-3>
-              <img src="assets/icon/redOwl.png" />
+            <div col-md-3 *ngFor="let owl of owlsTwo" (click)='addCoins(owl)'>
+              <img src="assets/icon/redOwl.png" [ngClass]="{'not-read-yet': !owl.isPicked}" />
             </div>
           </ion-row>
         </ion-item>
       </ion-row>
       <ion-row>
         <ion-item col-md-5>
-          Go To Cinema
+          <span style="white-space: normal;
+          text-align: center;font-size: 15px;">Go to bed later</span>
         </ion-item>
         <ion-item col-md-6>
           <ion-row>
-            <div col-md-3>
-              <img src="assets/icon/purpleOwl.png" />
-            </div>
-            <div col-md-3>
-              <img src="assets/icon/purpleOwl.png" />
+            <div col-md-3 *ngFor="let owl of owlsThree" (click)='addCoins(owl)'>
+              <img src="assets/icon/purpleOwl.png" [ngClass]="{'not-read-yet': !owl.isPicked}" />
             </div>
           </ion-row>
         </ion-item>
@@ -87,7 +106,7 @@
   </div>
 
   <ion-content style="width:100%;height:100%;background:transparent;">
-    <ion-scroll scrollX="true" padding style="width:100vw; height:200px">
+    <ion-scroll scrollX="true" padding style="width:100vw; height:350px">
       <ion-row nowrap>
         <div col-md-3 *ngFor="let book of books" (tap)="show(book)">
           <img src="{{book.imgName}}" width="140px" />

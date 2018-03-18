@@ -10,30 +10,33 @@
       <img src="{{book.imgName}}" />
     </ion-item>
     <ion-label col-md-7 style="white-space: pre-line; ">
-        Lorem ipsum dolor sit amet, at errem ornatus impedit mea, ea nam omnium voluptatum. Qui ad maiorum iudicabit. In per quot
-        noster, quot minim posidonium est et, nec diceret apeirian ei. Verterem disputationi an mea, persius accusam ancillae
-        nam in.
+      Lorem ipsum dolor sit amet, at errem ornatus impedit mea, ea nam omnium voluptatum. Qui ad maiorum iudicabit. In per quot
+      noster, quot minim posidonium est et, nec diceret apeirian ei. Verterem disputationi an mea, persius accusam ancillae
+      nam in.
+    </ion-label>
+    <ion-label col-md-7 style="white-space: pre-line; ">
+      <span style="font-size: 18px;">Recomended Age:</span> 8-10
     </ion-label>
   </ion-row>
   <ion-item col-md-12>
-      <ion-row col-md-9>
-        <h1 class="main-page-txt" col-md-3 style="margin-top: 25px;font-weight:700;">Reward:</h1>
-        <ion-item col-md-3>
-          <img src="assets/icon/commonOwl.png" />
-        </ion-item>
-        <ion-item col-md-3>
-          <img src="assets/icon/commonOwl.png" />
-        </ion-item>
-        <ion-item col-md-3>
-          <img src="assets/icon/commonOwl.png" />
-        </ion-item>
-      </ion-row>
-    </ion-item>
+    <ion-row col-md-9>
+      <h1 class="main-page-txt" col-md-3 style="margin-top: 25px;font-weight:700;">Reward:</h1>
+      <ion-item col-md-3>
+        <img src="assets/icon/commonOwl.png" />
+      </ion-item>
+      <ion-item col-md-3>
+        <img src="assets/icon/commonOwl.png" />
+      </ion-item>
+      <ion-item col-md-3>
+        <img src="assets/icon/commonOwl.png" />
+      </ion-item>
+    </ion-row>
+  </ion-item>
   <ion-row col-md-12 mr-auto>
-    <button (click)="dismiss()" class="btn btn-info">
+    <button ion-button round outline (click)="dismiss()" class="btn btn-info">
       Close
     </button>
-    <button (click)="show(book)" class="btn btn-primary">
+    <button ion-button round outline (click)="show(book)" class="btn btn-primary">
       Read
     </button>
   </ion-row>

@@ -2,6 +2,9 @@ import { Component } from '@angular/core';
 import { NavController, Platform, PopoverController, Events, NavParams } from 'ionic-angular';
 import { TocPage } from '../toc/toc';
 import { SettingsPage } from '../settings/settings';
+import { App, ViewController } from 'ionic-angular';
+import { ModalController } from 'ionic-angular';
+import { QuizPage } from '../quiz/quiz';
 
 declare var ePub: any;
 
@@ -26,6 +29,8 @@ export class BookPage {
     public popoverCtrl: PopoverController,
     public events: Events,
     public navParams: NavParams,
+    public modalCtrl: ModalController,
+    public viewController: ViewController
   ) {
     let book = this.navParams.get('book');
 
@@ -151,8 +156,25 @@ export class BookPage {
   }
 
   next() {
-    console.log('next');
-    this.book.nextPage();
+    if (this.book.pageList.length - 1 != this.currentPage + 1) {
+      this.book.nextPage();
+    }
+    else {
+      this.show();
+      this.dismiss();
+    }
+  }
+
+  dismiss() {
+    this.viewController.dismiss();
+  }
+
+  show() {
+    let profileModal = this.modalCtrl.create(QuizPage);
+    profileModal.onDidDismiss(data => {
+      console.log(data);
+    });
+    profileModal.present();
   }
 
   toc(ev) {

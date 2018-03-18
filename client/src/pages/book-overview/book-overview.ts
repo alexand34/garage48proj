@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { ModalController, ViewController } from 'ionic-angular';
 import { NavController, NavParams } from 'ionic-angular';
 import { BookPage } from '../book/book';
+import { QuizPage } from '../quiz/quiz';
 /**
  * Generated class for the BookOverviewPage page.
  *

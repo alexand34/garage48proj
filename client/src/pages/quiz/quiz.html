@@ -1,0 +1,32 @@
+<ion-title>Quiz</ion-title>
+
+<ion-content padding style="background: url('assets/icon/background.jpg')">
+  <ion-row>
+    <ion-item col-md-5></ion-item>
+    <ion-item style="margin-left: 25px; margin-bottom: -3px;" col-md-5>
+      <img style="width: 70px" src="assets/imgs/blueowl.png">
+    </ion-item>
+  </ion-row>
+  <ion-row>
+    <ion-item col-md-3></ion-item>
+    <ion-item col-md-5 style="margin-left: 30px;">
+      <progress-bar item-width="250px" [progress]="progress"></progress-bar>
+    </ion-item>
+  </ion-row>
+  <ion-content>
+    <ion-list class="no-scroll" *ngFor="let question of questions" col-md-12>
+      <div *ngIf="question.IsActive" mr-auto ml-auto>
+        <ion-list radio-group>
+          <ion-list-header style="color: #1692df; font-size: 15px; background: transparent;text-align: center;">
+            {{question.Text}}
+          </ion-list-header>
+          <ion-item *ngFor="let answer of question.Answers" col-md-4 style="margin-left: 33.333333%">
+            <ion-label>{{answer.Text}}</ion-label>
+            <ion-radio [value]="answer.Id"></ion-radio>
+          </ion-item>
+        </ion-list>
+        <button padding ion-button (click)="next(question)" style="left:50%">Next</button>
+      </div>
+    </ion-list>
+  </ion-content>
+</ion-content>

@@ -129,6 +129,7 @@ export class IndexPage {
 
   show(book) {
     console.log('show', book);
+    this.olwCoins = 3;
     let profileModal = this.modalCtrl.create(BookOverviewPage, { data: book });
     profileModal.onDidDismiss(data => {
       console.log(data);
